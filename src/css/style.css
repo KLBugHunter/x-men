@@ -18,7 +18,7 @@ body{
 
 body::before{
     content: "";
-    background-image: url(../src/imagens/bg-desktop.jpg);
+    background-image: url(../imagens/bg-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -57,7 +57,7 @@ body::before{
     gap: 25px;
 }
 
-.selecao .personagem .titulo{
+.selecao .personagens .titulo{
     font-size: 20px;
     letter-spacing: 0.3em;
     text-transform: uppercase;
